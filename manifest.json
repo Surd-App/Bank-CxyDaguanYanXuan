@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": 1789889947805,
+  "chunkSizeBytes": 1048576,
+  "questionBank": {
+    "id": "1789889566084",
+    "name": "澄潇宇严选题库",
+    "snapshotAt": 1789889566084,
+    "importedAt": 1789889947805,
+    "rootCategoryIds": [
+      223,
+      2500
+    ],
+    "status": "ready"
+  },
+  "stats": {
+    "categoryCount": 547,
+    "questionCount": 729
+  },
+  "chunks": {
+    "categories": [
+      {
+        "file": "categories/part-0001.json",
+        "count": 547,
+        "bytes": 49658,
+        "sha256": "6fffaf75b3dae5c2d4c062718c6067b82ec46a696852902a8230d13ecf7f90ce"
+      }
+    ],
+    "questions": [
+      {
+        "file": "questions/part-0001.json",
+        "count": 729,
+        "bytes": 745022,
+        "sha256": "3db820a5b8c991d952efeb220dc56ec7bcb72db18f4491ba85f6a149d53cfcd1"
+      }
+    ]
+  }
+}
